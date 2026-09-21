@@ -1,4 +1,4 @@
-```python
+python
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -569,4 +569,3 @@ st.divider()
 st.caption(
     "데이터 출처: 영화진흥위원회(KOBIS)"
 )
-```
